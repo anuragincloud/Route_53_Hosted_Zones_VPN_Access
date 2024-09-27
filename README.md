@@ -7,6 +7,9 @@ The goal is to create a secure, isolated network where users or services in loca
 # Steps:
 
 Step 1: Create a VPC
+
 Step 2: Set Up Route 53 Private Hosted Zone
+
 Step 3: Launch EC2 Instances
+
 Step 4: Configure VPN Gateway
